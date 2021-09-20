@@ -1,5 +1,20 @@
-#parent p:last-child{
+@font-face{
 
-    color: green;
-    text-decoration: underline;
+font-family: delicious;
+src: url('Delicious-Roman.otf');
+
 }
+
+@font-face{
+
+    font-family: delicious;
+    src: url('Delicious-Roman.otf');
+    font-weight: bold;
+    }
+
+    h1{
+
+
+        font-family: delicious, sans-serif;
+    }
+    
