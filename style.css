@@ -6,5 +6,5 @@ div{
     margin: 4px;
  
 color: white;
-    background:linear-gradient(seagreen,black,white,yellow);
+    background:linear-gradient(seagreen 66%,black 34%,white,yellow);
 }
